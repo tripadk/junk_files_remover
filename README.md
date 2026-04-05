@@ -101,12 +101,12 @@
   - demo_mode: enables safe limited execution for testing        
   - include_hidden_files: includes hidden files in scan results  
                                                                  
-  ## Usage                                                       
-                                                                 
-  Run the project from the junk_file_remover directory:          
-                                                                 
-  python main.py                                                 
-                                                                 
+  ## Usage
+### Run on Linux:                                                     
+ python3 main.py
+
+### Run on Windows:
+python main.py                                               
   The program opens a menu-driven interface with options to:     
                                                                  
   - scan the system                                              
