@@ -1,0 +1,7 @@
+{
+  "junk_extensions": [".tmp", ".log", ".cache"],
+  "min_age_days": 7,
+  "large_file_threshold_mb": 100,
+  "demo_mode": true,
+  "include_hidden_files": true
+}
